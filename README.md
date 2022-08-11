@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shenbaagaraj
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on people who doing projects using Python
+- 💞️ I’m looking to collaborate with people those who doing projects using Python
 - 📫 How to reach me mail: sshenbaagaraj@gmail.com
 
 <!---
